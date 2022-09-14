@@ -400,7 +400,7 @@ $Nav.declare('img.pixel', 'https://images-eu.ssl-images-amazon.com/images/G/31/x
   </script>
 
     <style mark="aboveNavInjectionCSS" type="text/css">
-      .nav-bluebeacon .nav-cobrand{background-image: url(https://images-eu.ssl-images-amazon.com/images/G/31/gno/images/irctc/IRCTC_Logo-dark-small.png);} div.navFooterLine{white-space:normal;} div.navFooterColHead{white-space:normal;} #nav-flyout-ewc .nav-flyout-buffer-left { display: none; } #nav-flyout-ewc .nav-flyout-buffer-right { display: none; } 
+      .nav-bluebeacon .nav-cobrand{background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxWH3Y12KjOlpHxfeqv4W70P8-buZuzpbYqpDrvdOW_gjs4CRsLuttKdW3sA&s);} div.navFooterLine{white-space:normal;} div.navFooterColHead{white-space:normal;} #nav-flyout-ewc .nav-flyout-buffer-left { display: none; } #nav-flyout-ewc .nav-flyout-buffer-right { display: none; } 
     </style>
     <script mark="aboveNavInjectionJS" type="text/javascript">
       try {
